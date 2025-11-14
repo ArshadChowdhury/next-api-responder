@@ -1,0 +1,26 @@
+{
+  "name": "next-api-responder",
+  "version": "1.0.0",
+  "description": "Tiny Next.js API response helpers — typed and testable",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest"
+  },
+  "keywords": [
+    "nextjs",
+    "api",
+    "response",
+    "typescript",
+    "helpers"
+  ],
+  "author": "Mohammed Arshad",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0",
+    "vitest": "^4.0.9"
+  }
+ 
+}
