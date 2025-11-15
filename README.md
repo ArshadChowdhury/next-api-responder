@@ -604,9 +604,7 @@ class ValidationError extends Error {
 
 # 📄 License
 
-## MIT © Mohammed Arshad
-
-## 🔗 Links
+MIT © Mohammed Arshad
 
 ## 🔗 Useful Links
 
@@ -614,4 +612,4 @@ class ValidationError extends Error {
 - **npm Package** — [https://www.npmjs.com/package/next-api-responder](https://www.npmjs.com/package/next-api-responder)
 - **Report Issues** — [https://github.com/ArshadChowdhury/next-api-responder/issues](https://github.com/ArshadChowdhury/next-api-responder/issues)
 
-## Made with ❤️ for the Next.js community
+### Made with ❤️ for the Next.js community
